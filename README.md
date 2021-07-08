@@ -1,9 +1,9 @@
 # dotnetmvcproj001
 #Dot Net Core MVC web app
 
-#Create new MVC project
+*Create new MVC project
 dotnet new mvc -n dotnetmvcproj001
-#Go to your testapp01 folder and run the dotnetmvcproj001 project
+*Go to your testapp01 folder and run the dotnetmvcproj001 project
 cd dotnetmvcproj001
 dotnet run
 
