@@ -1,6 +1,16 @@
 # dotnetmvcproj001
 # Dot Net Core MVC web app
 
+# Prerequisites:
+
+To complete this quickstart:
+
+* Install Git
+* Install dotnet core runtime
+
+
+# Steps:
+
 * Create new MVC project
 
 dotnet new mvc -n dotnetmvcproj001
